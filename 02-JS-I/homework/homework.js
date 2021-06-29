@@ -62,7 +62,7 @@ function sonIguales(x, y) {
   if (x = y); {
   console.log('true');
 } 
-else if (x != y) {
+ if (x != y) {
   console.log('false');
 }
 }
