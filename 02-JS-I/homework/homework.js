@@ -3,7 +3,7 @@
 // Crea una variable "string", puede contener lo que quieras:
 const nuevaString ="saludo";
 // Crea una variable numérica, puede ser cualquier número:
-const nuevoNum =9 ;
+const nuevoNum = 9 ;
 // Crea una variable booleana:
 const nuevoBool = false;
 
@@ -24,9 +24,7 @@ const nuevoModulo = 21 % 5 === 1;
 // No cambies los nombres de las funciones.
 
 function devolverString(str) {
-  // "Return" la string provista: str
-  // Tu código:
-  var nombre="victor";
+   var nombre="victor";
   return nombre;
 }
 
@@ -41,14 +39,12 @@ function resta(x, y) {
   }
 
 function multiplica(x, y) {
-  // Multiplica "x" por "y" y devuelve el valor
-  // Tu código:
-  console.log(x * y)
+ var x= 5, y= 7;
+  console.log(x * y);
   }
 
 function divide(x, y) {
-  // Divide "x" entre "y" y devuelve el valor
-  // Tu código:
+var x= 15, y= 3;
   console.log(x / y);
   }
 
