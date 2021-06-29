@@ -31,16 +31,12 @@ function devolverString(str) {
 }
 
 function suma(x, y) {
-  // "x" e "y" son números
-  // Suma "x" e "y" juntos y devuelve el valor
-  // Tu código:
-  x=7, y=9;
+  var x= 7, y= 9 ;
   console.log(x + y);
 }
 
 function resta(x, y) {
-  // Resta "y" de "x" y devuelve el valor
-  // Tu código:
+  var x= 9, y= 3;
   console.log(x - y);
   }
 
