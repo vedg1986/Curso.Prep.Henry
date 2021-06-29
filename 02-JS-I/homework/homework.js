@@ -3,7 +3,7 @@
 // Crea una variable "string", puede contener lo que quieras:
 var nombre="hola mundo";
 const nuevaString ="saludo";
-
+console.log("saludo");
 // Crea una variable numérica, puede ser cualquier número:
 const nuevoNum = 9;
 
